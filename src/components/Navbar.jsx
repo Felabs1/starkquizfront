@@ -18,7 +18,7 @@ const Navbar = () => {
 
     { item_name: "create account", item_link: "create-account" },
     { item_name: "create quiz", item_link: "create-quiz" },
-    { item_name: "create questions", item_link: "create-questions" },
+    // { item_name: "create questions", item_link: "create-questions" },
     { item_name: "answer questions", item_link: "answer-questions" },
   ];
 
